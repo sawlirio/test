@@ -1,0 +1,1 @@
+export default () => <div>Contentful Stuffs here</div>
